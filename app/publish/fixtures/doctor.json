@@ -1,0 +1,21 @@
+[
+    {
+        "model": "publish.doctor", 
+        "pk": 1, 
+        "fields": {
+        "name": "Bone"
+        }
+    }, {
+        "model": "publish.doctor", 
+        "pk": 2, 
+        "fields": {
+        "name": "Tooth"
+        }
+    }, {
+        "model": "publish.doctor",
+        "pk": 3,
+        "fields": {
+        "name": "Skin"
+        }
+    }
+]
